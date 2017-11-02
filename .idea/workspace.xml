@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54b021bb-7a45-41ba-9b78-35daa8dea9c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-standard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sign.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-if-in-range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-if-out-range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rewrite-if-else-question.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rewrite-if-question.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/check-login.js" afterPath="$PROJECT_DIR$/check-login.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,9 +26,11 @@
         <entry file="file://$PROJECT_DIR$/check-standard.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <marker date="1509648860617" expanded="true" signature="0:239" ph="//..." />
+                <marker date="1509648860617" expanded="true" signature="348:372" ph="{...}" />
+                <marker date="1509648860617" expanded="true" signature="378:420" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -35,17 +40,66 @@
         <entry file="file://$PROJECT_DIR$/sign.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <marker date="1509649155777" expanded="true" signature="0:219" ph="//..." />
                 <marker date="1509649155777" expanded="true" signature="3:219" ph="..." />
+                <marker date="1509649155777" expanded="true" signature="282:299" ph="{...}" />
+                <marker date="1509649155777" expanded="true" signature="319:337" ph="{...}" />
+                <marker date="1509649155777" expanded="true" signature="343:360" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="check-login.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="check-login.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/check-login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rewrite-if-question.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rewrite-if-question.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rewrite-if-else-question.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rewrite-if-else-question.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check-if-in-range.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/check-if-in-range.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check-if-out-range.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/check-if-out-range.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -72,11 +126,22 @@
         <option value="$PROJECT_DIR$/check-standard.js" />
         <option value="$PROJECT_DIR$/sign.js" />
         <option value="$PROJECT_DIR$/check-login.js" />
+        <option value="$PROJECT_DIR$/rewrite-if-question.js" />
+        <option value="$PROJECT_DIR$/rewrite-if-else-question.js" />
+        <option value="$PROJECT_DIR$/check-if-in-range.js" />
+        <option value="$PROJECT_DIR$/check-if-out-range.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -110,6 +175,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -123,17 +191,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.sign.js">
+  <component name="RunManager" selected="Node.js.check-if-in-range.js">
+    <configuration name="check-if-in-range.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="check-if-in-range.js" working-dir="$PROJECT_DIR$" />
     <configuration name="check-standard.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="check-standard.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="rewrite-if-else-question.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="rewrite-if-else-question.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="rewrite-if-question.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="rewrite-if-question.js" working-dir="$PROJECT_DIR$" />
     <configuration name="sign.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="sign.js" working-dir="$PROJECT_DIR$" />
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.check-standard.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.sign.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.rewrite-if-question.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.rewrite-if-else-question.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.check-if-in-range.js" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.sign.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.check-standard.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.check-if-in-range.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.rewrite-if-else-question.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.rewrite-if-question.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.sign.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.check-standard.js" />
       </list>
     </recent_temporary>
   </component>
@@ -147,12 +224,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509648602764</updated>
-      <workItem from="1509648603992" duration="651000" />
+      <workItem from="1509648603992" duration="2718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="651000" />
+    <option name="totallyTimeSpent" value="2718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -190,9 +267,11 @@
     <entry file="file://$PROJECT_DIR$/check-standard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1509648860617" expanded="true" signature="0:239" ph="//..." />
+            <marker date="1509648860617" expanded="true" signature="348:372" ph="{...}" />
+            <marker date="1509648860617" expanded="true" signature="378:420" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -200,15 +279,56 @@
     <entry file="file://$PROJECT_DIR$/sign.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1509649155777" expanded="true" signature="0:219" ph="//..." />
             <marker date="1509649155777" expanded="true" signature="3:219" ph="..." />
+            <marker date="1509649155777" expanded="true" signature="282:299" ph="{...}" />
+            <marker date="1509649155777" expanded="true" signature="319:337" ph="{...}" />
+            <marker date="1509649155777" expanded="true" signature="343:360" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/check-login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rewrite-if-question.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rewrite-if-else-question.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check-if-in-range.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check-if-out-range.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -216,5 +336,20 @@
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
