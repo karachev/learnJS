@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54b021bb-7a45-41ba-9b78-35daa8dea9c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/switch/rewrite-if-switch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/switch/rewrite-switch-if-else.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function-basics/min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function-basics/pow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function-basics/rewrite-function-question-on.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -48,11 +49,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rewrite-if-switch.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rewrite-if-switch.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/switch/rewrite-if-switch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="278">
               <caret line="31" column="46" lean-forward="false" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rewrite-function-question-on.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function-basics/rewrite-function-question-on.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function-basics/min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pow.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/function-basics/pow.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -95,6 +128,9 @@
         <option value="$PROJECT_DIR$/list-primes.js" />
         <option value="$PROJECT_DIR$/switch/rewrite-switch-if-else.js" />
         <option value="$PROJECT_DIR$/switch/rewrite-if-switch.html" />
+        <option value="$PROJECT_DIR$/function-basics/rewrite-function-question-on.js" />
+        <option value="$PROJECT_DIR$/function-basics/min.js" />
+        <option value="$PROJECT_DIR$/function-basics/pow.html" />
       </list>
     </option>
   </component>
@@ -189,26 +225,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.rewrite-if-switch.html">
-    <configuration name="check-if-in-range.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="check-if-in-range.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="lest-primes-v2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="lest-primes-v2.js" working-dir="$PROJECT_DIR$/while-for" />
-    <configuration name="list-primes.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="list-primes.js" working-dir="$PROJECT_DIR$" />
+  <component name="RunManager" selected="JavaScript Debug.pow.html">
+    <configuration name="min.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="min.js" working-dir="$PROJECT_DIR$/function-basics" />
+    <configuration name="pow.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJS/function-basics/pow.html" />
+    <configuration name="rewrite-function-question-on.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="rewrite-function-question-on.js" working-dir="$PROJECT_DIR$/function-basics" />
     <configuration name="rewrite-if-switch.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJS/switch/rewrite-if-switch.html" />
     <configuration name="rewrite-switch-if-else.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="rewrite-switch-if-else.js" working-dir="$PROJECT_DIR$/switch" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.lest-primes-v2.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.check-if-in-range.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.list-primes.js (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.rewrite-switch-if-else.js" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.rewrite-if-switch.html" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.rewrite-switch-if-else.js" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.rewrite-if-switch.html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.rewrite-function-question-on.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.min.js" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.pow.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.rewrite-if-switch.html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.rewrite-switch-if-else.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.list-primes.js (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.lest-primes-v2.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.check-if-in-range.js" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.pow.html" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.min.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.rewrite-function-question-on.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.rewrite-if-switch.html" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.rewrite-switch-if-else.js" />
       </list>
     </recent_temporary>
   </component>
@@ -226,12 +262,12 @@
       <option name="presentableId" value="Default" />
       <updated>1509648602764</updated>
       <workItem from="1509648603992" duration="2718000" />
-      <workItem from="1509804902906" duration="4000000" />
+      <workItem from="1509804902906" duration="6754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6718000" />
+    <option name="totallyTimeSpent" value="9472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -476,8 +512,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/switch/rewrite-if-switch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="278">
           <caret line="31" column="46" lean-forward="false" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function-basics/rewrite-function-question-on.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function-basics/min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function-basics/pow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           <folding />
         </state>
       </provider>
