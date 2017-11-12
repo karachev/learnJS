@@ -3,7 +3,7 @@
 // То есть, проверка имеет вид a ≤ arr[i] ≤ b . Функция не должна менять arr .
 
 let arr = [5, 4, 3, 8, 0];
-let filtered = filterRange(arr, 3, 5);
+let filtered = filterRange(arr, 3, 10);
 console.log(filtered);
 
 function filterRange(arr, min, max) {
@@ -13,4 +13,5 @@ function filterRange(arr, min, max) {
             newArray.push(arr[i]);
         }
     }
+    return newArray;
 }
